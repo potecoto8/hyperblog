@@ -8,4 +8,5 @@ Un blog increible para el curso de git y github de platzi
 * La adaptación es vital en la nueva realidad
 
 Creado por el increible Abel
-*IIncluye ejemplo en Windows, Linuz y Mac
+* Incluye ejemplo en Windows, Linuz y Mac
+* Disponible para todas las edades
