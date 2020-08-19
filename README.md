@@ -6,3 +6,5 @@ Un blog increible para el curso de git y github de platzi
 
 * Debemos mantenernos actualizados, lo que sabemos no es lo definitivo
 * La adaptación es vital en la nueva realidad
+
+Creado por el increible Abel
